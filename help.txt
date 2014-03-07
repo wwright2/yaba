@@ -1,0 +1,78 @@
+Welcome to Griffon 1.5.0 - http://griffon-framework.org/
+Licensed under Apache Standard License 2.0
+Griffon home is set to: /home/duvall/.gvm/griffon/current
+
+Base Directory: /home/duvall/dev/griffon/sfBrokerApi
+Running script /home/duvall/.gvm/griffon/current/scripts/Help_.groovy
+Resolving dependencies...
+Dependencies resolved in 302ms.
+Environment set to development
+
+  Usage (optionals marked with *):
+     griffon [environment]* [target] [arguments]*
+
+  Examples:
+     griffon dev run-app
+     griffon create-app books
+
+  Available Targets (type griffon help 'target-name' for more info):
+
+  griffon add-proxy
+  griffon app
+  griffon archetype-info
+  griffon clean
+  griffon clear-dependency-cache
+  griffon clear-proxy
+  griffon compile
+  griffon console
+  griffon create-addon
+  griffon create-app
+  griffon create-archetype
+  griffon create-command-alias
+  griffon create-integration-test
+  griffon create-mvc
+  griffon create-plugin
+  griffon create-script
+  griffon create-service
+  griffon create-unit-test
+  griffon dependency-report
+  griffon doc
+  griffon generate-view-script
+  griffon help
+  griffon init
+  griffon install-archetype
+  griffon install-plugin
+  griffon integrate-with
+  griffon interactive
+  griffon license-report
+  griffon list-archetype-updates
+  griffon list-archetypes
+  griffon list-plugin-updates
+  griffon list-plugins
+  griffon list-repositories
+  griffon list-templates
+  griffon package
+  griffon package-archetype
+  griffon package-plugin
+  griffon plugin-dependencies-report
+  griffon plugin-info
+  griffon release
+  griffon release-archetype
+  griffon release-plugin
+  griffon remove-proxy
+  griffon replace-artifact
+  griffon run-app
+  griffon run-applet
+  griffon run-script
+  griffon run-webstart
+  griffon set-proxy
+  griffon set-version
+  griffon shell
+  griffon stats
+  griffon test-app
+  griffon uninstall-archetype
+  griffon uninstall-plugin
+  griffon upgrade
+  griffon upload-release
+  griffon usage-stats
+  griffon wrapper
